@@ -13,6 +13,11 @@ __pycache__/
 
 # Temp directories, notebooks created by jupyterlab
 .ipynb_checkpoints
+data
+datasets
+models
+runs
+voc_data
 .Trash-*/
 .jupyter/
 .local/
