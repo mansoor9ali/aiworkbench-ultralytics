@@ -1,6 +1,6 @@
-jupyterlab==4.3.5
-torchvision
-torch
-torchdata
-torchtext
+jupyterlab>3.0
+torch==2.6.0
+torchdata==0.10.1
+torchtext==0.18.0
+torchvision==0.21.0
 ultralytics
