@@ -13,8 +13,11 @@ __pycache__/
 
 # Temp directories, notebooks created by jupyterlab
 .ipynb_checkpoints
+PPE-kit-detection-*
+PointKneeDetectionV5-16
 data
 datasets
+datasets2
 models
 runs
 voc_data
